@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Viraj Patil !</h1>
+<h1 align="center">Hi 👋, I'm Viraj </h1>
 
-- 🔭 I’m currently working on **User Management System**
+- 🔭 I’m currently working on **Real-time projects**
 
-- 🌱 I’m currently learning **JavaServer Pages , Servlet , JDBC**
+- 🌱 I’m currently learning **Springboot**
 
-- 📫 How to reach me **virajp0801@gmail.com**
+- 📫 How to reach me **virpatil@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
